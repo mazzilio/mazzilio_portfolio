@@ -1,0 +1,12 @@
+.loading-state {
+	background-color: var(--beige);
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.loading-state__logo-container {
+	padding: 10px;
+	margin: 250px;
+}

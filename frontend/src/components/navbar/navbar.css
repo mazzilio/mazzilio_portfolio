@@ -1,0 +1,17 @@
+.navbar-container {
+	height: 77px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	background-color: white;
+}
+
+.navbar-container__items {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.navbar-container__items p {
+	margin: 1.5rem 3rem 0 0;
+}
