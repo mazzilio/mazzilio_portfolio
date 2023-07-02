@@ -1,4 +1,3 @@
-import './App.css';
 import { useState, useEffect } from 'react';
 import { HashRouter } from 'react-router-dom';
 import NavBar from './components/navbar/navbar';
@@ -19,17 +18,17 @@ function App() {
 	return (
 		<>
 			<div className='app'>
-				{/* {loading ? (
+				{loading ? (
 					<LoadingPage />
-				) : ( */}
-				<div>
-					<HashRouter>
-						<NavBar />
-						<Pages />
-						<Footer />
-					</HashRouter>
-				</div>
-				{/* )} */}
+				) : (
+					<div>
+						<HashRouter>
+							<NavBar />
+							<Pages />
+							<Footer />
+						</HashRouter>
+					</div>
+				)}
 			</div>
 		</>
 	);

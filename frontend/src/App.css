@@ -1,9 +1,0 @@
-#root {
-}
-
-.app {
-	display: grid;
-	grid-template-rows: min-content 1fr;
-	min-height: 100vh;
-	background-color: var(--beige);
-}

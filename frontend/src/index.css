@@ -17,11 +17,18 @@
 	src: url(./fonts/Ribes-Black.otf) format('opentype');
 }
 
+.app {
+	display: grid;
+	grid-template-rows: min-content 1fr;
+	min-height: 100vh;
+	background-color: var(--beige);
+}
+
 body {
 	padding: 0;
 	margin: 0;
 	color: black;
-	/* font-family: 'Ribes'; */
+	font-family: 'Klee One', cursive;
 }
 
 h1 {

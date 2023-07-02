@@ -1,5 +1,5 @@
 import { Route, Routes, useLocation } from 'react-router-dom';
-import Home from './Home';
+import Home from '@/pages/Home/Home';
 
 type Props = {};
 

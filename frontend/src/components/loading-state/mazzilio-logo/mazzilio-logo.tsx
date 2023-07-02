@@ -1,11 +1,11 @@
-import M from '../../../assets/mazzilio/M.svg';
-import A from '../../../assets/mazzilio/A.svg';
-import Z from '../../../assets/mazzilio/Z.svg';
-import Z1 from '../../../assets/mazzilio/Z1.svg';
-import I from '../../../assets/mazzilio/I.svg';
-import L from '../../../assets/mazzilio/L.svg';
-import O from '../../../assets/mazzilio/O.svg';
-import Flower from '../../../assets/mazzilio/Flower.svg';
+import M from '@/assets/mazzilio/M.svg';
+import A from '@/assets/mazzilio/A.svg';
+import Z from '@/assets/mazzilio/Z.svg';
+import Z1 from '@/assets/mazzilio/Z1.svg';
+import I from '@/assets/mazzilio/I.svg';
+import L from '@/assets/mazzilio/L.svg';
+import O from '@/assets/mazzilio/O.svg';
+import Flower from '@/assets/mazzilio/Flower.svg';
 
 import './mazzilio-logo.css';
 

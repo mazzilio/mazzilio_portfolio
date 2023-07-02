@@ -1,0 +1,37 @@
+.hero-container {
+	display: flex;
+	flex-direction: column;
+	margin: 4rem 0rem 0 2.5rem;
+	align-items: center;
+}
+
+.hero-container__CTA {
+	font-size: 3rem;
+	align-self: flex-start;
+	margin: -4rem 0rem 0 6rem;
+	z-index: 2;
+}
+
+.maz-logo-holder {
+	margin: -4rem 50rem 0 0rem;
+	z-index: 2;
+}
+
+.hero-container__projects {
+	margin: 1rem 45rem 0 0;
+}
+
+.hero-container__desc {
+	font-size: 1.7rem;
+	inline-size: 60rem;
+	overflow-wrap: break-word;
+	margin: -1rem 0 0 15rem;
+	z-index: 2;
+}
+
+.hero-container__border {
+	position: absolute;
+	transform: scale(1.65);
+	z-index: 2;
+	position: absolute;
+}
